@@ -1,0 +1,13 @@
+body {
+  background: rgb(49, 46, 46);
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: rgb(245, 245, 245);
+}
+
+a {
+  color: rgb(248, 148, 195);
+  text-decoration: none;
+}

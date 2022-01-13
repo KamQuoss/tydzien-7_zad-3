@@ -1,2 +1,2 @@
-# tydzien-7_zad-3
+# tydzien-7_zad-1
 Created with CodeSandbox
